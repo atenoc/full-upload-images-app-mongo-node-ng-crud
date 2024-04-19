@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=OMBwyCNmoPY&t=4599s
+
+Inciar Mongo DB
+: mongod
+// en la terminal de windows, No cerrar la terminal para mantener en ejecución
+
+Iniciar el servidor con Nodemon
+: npm run dev
+// en la terminal de VSC
+
+http://localhost:4000/api/photos
+
+Iniciar el cliente Angular
+: ng serve -o 
+
+http://localhost:4200/photos
